@@ -39,3 +39,9 @@ I created two scripts: one with a delay timer and another for the main functiona
 - When required to run every minute, I execute monitoring.sh without the delay timer.
 
 Both scripts are included in this repository.
+
+
+These are the tutorials I followed:
+- https://github.com/gemartin99/Born2beroot-Tutorial
+- https://github.com/pasqualerossi/Born2BeRoot-Guide
+- https://42-cursus.gitbook.io/guide/rank-01/born2beroot
